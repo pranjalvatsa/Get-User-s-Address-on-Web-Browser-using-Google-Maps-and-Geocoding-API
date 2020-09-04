@@ -1,0 +1,2 @@
+# Get-User-s-Address-on-Web-Browser-using-Google-Maps-and-Geocoding-API
+This is a short JS project that gets users current location, marks it on Google Maps and then also marks the complete address on the map. It uses Google Maps and Google Geocoding API. You will have to procure your own API key and replace it in the JS where the G Maps API is called. Procure your API key from Google Developer Console. Refer: https://developers.google.com/maps/documentation/javascript/overview
